@@ -9,6 +9,7 @@ void mainMenu(){
     string action;
     getline(cin, action);
     cout << action << endl;
+    
   }
 }
 
